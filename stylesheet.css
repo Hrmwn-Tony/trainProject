@@ -1,0 +1,32 @@
+body {
+    background-color: teal;
+    justify-content: center;
+}
+#article>.card{
+    display: flex;
+    
+}
+.card {
+    width : 300px;
+    height: 800px;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+}
+
+.classHeader {
+    display: flex;
+    flex-direction: column;
+    padding: 4%;
+}
+
+.bookBio{
+    display: flex;
+    flex-direction: row;
+    height: 10%;
+    align-items: ;
+}
+
+.bookBio p{
+    background-color: aquamarine;
+}
